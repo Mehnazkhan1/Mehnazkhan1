@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- :school: Data Analytics bootcamp graduate (May 2022, Juno College)
+## - :school: Data Analytics bootcamp graduate (May 2022, Juno College)
 - 🌱 Skilled in Excel / Sheets, SQL, Tableau, Python, Some knowledge of Adobe (Photoshop)
 - 👯 8+ years of Customer service and sales
 - 🤔 Strengths: communication, interpersonal skills, attention to details
