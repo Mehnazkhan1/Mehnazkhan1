@@ -7,7 +7,6 @@
 - 😄 Pronouns: She/Her
 - :egg: Fun fact: I can eat eggs everyday in the breakfast
 - I am a Data Analyst. I am passionate about problem-solving by learning more . I have a background of customer service where I have developed a strong understanding of teamwork importance. I can integrate my previous skills into my work as a Data Analyst.
-- Sheets Microsoft Excel MySQL Tableau Visual_Studio_Code Python NumPy Pandas Scikit GitHub
 
 <!--
 **Mehnazkhan1/Mehnazkhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
